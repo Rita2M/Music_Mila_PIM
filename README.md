@@ -167,10 +167,7 @@ ____
 + Shaman
   ![](P1470096-1%20копия.jpg)
 
-     body {
-    background-color: #FF0000; 
-  }
-
+    <link rel="stylesheet" href="styles.css">
 
 
 
